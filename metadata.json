@@ -1,0 +1,6 @@
+{
+  "name": "Cloud Brain & Local Executor Sandbox",
+  "description": "An interactive full-stack sandbox demonstrating a distributed, offline-first developer agent protocol. Simulates real-time cloud-to-local WebSocket command bridging, local executor safety gates, exponential backoff for free-tier rate limits, and Render's sleep-cycle warmups.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
